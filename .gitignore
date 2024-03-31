@@ -1,0 +1,12 @@
+# ignore folders
+tree-sitter-java/
+tree-sitter-kotlin/
+learning/
+CodeCheck/
+storage/
+tree-sitter-languages/
+.conda/
+.idea/
+__pycache__/
+.vscode/
+.env

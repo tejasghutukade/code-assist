@@ -1,0 +1,7 @@
+pgvector
+psycopg2-binary
+langchain
+langchain_community
+tree_sitter
+tree_sitter_languages
+
